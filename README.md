@@ -1,3 +1,6 @@
+
+NOTE: This is only a tutorial and should not be contrued as an example of my work. I just like to have my code tracked and available to more than one computer should I decide to switch it up at any time.
+
 # AngularTourOfHeroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.3.
